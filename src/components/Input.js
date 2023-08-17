@@ -6,7 +6,7 @@ function Input(props){
 
     function checkInput(event) {
         let isCorrectLetter = true;
-        const word = event.target.value;
+        const word = event.target.value.trim();
         setEnteredWord(word);
         const currentWord = props.prompt[props.cursor];
 
