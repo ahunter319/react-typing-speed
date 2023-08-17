@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-typing-speed/static/css/main.d570ec91.css",
-    "main.js": "/react-typing-speed/static/js/main.bcff6a71.js",
+    "main.js": "/react-typing-speed/static/js/main.d57ff336.js",
     "index.html": "/react-typing-speed/index.html",
     "main.d570ec91.css.map": "/react-typing-speed/static/css/main.d570ec91.css.map",
-    "main.bcff6a71.js.map": "/react-typing-speed/static/js/main.bcff6a71.js.map"
+    "main.d57ff336.js.map": "/react-typing-speed/static/js/main.d57ff336.js.map"
   },
   "entrypoints": [
     "static/css/main.d570ec91.css",
-    "static/js/main.bcff6a71.js"
+    "static/js/main.d57ff336.js"
   ]
 }
