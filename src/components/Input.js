@@ -37,7 +37,6 @@ return <div className="d-flex justify-content-center align-items-center p-4">
         placeholder={props.prompt[props.cursor]} 
         value={enteredWord} 
         style={{color: isCorrect ? "#099cba" : "#d30856"}} 
-        autoFocus 
         disabled={props.gameOn}>
     </input>
 </div>
